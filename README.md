@@ -4,6 +4,6 @@
 | 名称                    | 完成日期  | 完成度 |
 | ----------------------- | --------- | :----: |
 | Visualization example 1 | 2022/1/13 |   √    |
-|                         |           |        |
-|                         |           |        |
+| Visualization example 2 | 2022/1/14 |   √    |
+| Visualization example 3 | 2022/1/14 |   √    |
 
