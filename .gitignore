@@ -131,3 +131,7 @@ dmypy.json
 # python and jupyter notebook
 **/.ipynb_checkpoints
 **/__pycache__
+
+
+# ipynb checkpoints
+**/*.ipynb_checkpoints
